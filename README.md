@@ -20,5 +20,6 @@ CircularProgress(
 	strokeWidth = 35f  
 )
 
-# Also you can define animation spec using optional params (animationSpec), and add content to center of progress bar using optional params (centerContent)
+# Also you can define animation spec using optional params (animationSpec).
+# and add content to center of progress bar using optional params (centerContent)
 ```
